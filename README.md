@@ -6,14 +6,12 @@ This project transforms raw HR data into actionable insights using modern data v
 
 🚀 Features
 1. Dashboard Overview
-Executive summary of key workforce metrics
-
-Filters for Region, Department, Gender, and Tenure
+   Executive summary of key workforce metrics
+   Filters for Region, Department, Gender, and Tenure
 
 2. Interactive Data Visualizations
-Workforce Demographics (Pie Charts, Bar Charts)
-
-Compensation Distribution (Boxplots, Histograms)
+   Workforce Demographics (Pie Charts, Bar Charts)
+   Compensation Distribution (Boxplots, Histograms)
 
 Employee Churn Trends
 
